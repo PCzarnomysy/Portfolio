@@ -9,7 +9,7 @@ user_input = input("Wpisz datę do której chcesz wygenerować mecze w formacie 
 
 print("Poczekaj, trwa generowanie rezultatów. Plik xlsx zapisze się w folderze z którego otworzyłeś program.")
 
-df = pd.concat(map(pd.read_excel,['POL3.xlsx']))
+df = pd.concat(map(pd.read_excel,['PLmecze.xlsx']))
 
 if user_input:
     # Filtrowanie danych na podstawie wprowadzonej daty
@@ -143,7 +143,7 @@ for team in elo_df.index:
 
 elo_df['Ostatni mecz'] = last_game_dates
 
-elo_df.to_excel('PLelo.xlsx')
+elo_df.to_excel('PLranking.xlsx')
 
 print("Plik wygenerowany. Aby sformatować wyniki, bez udziału nieistniejących klubów, należy w pliku excel przefiltrować dane w kolumnie" "Ostatni mecz" "uwzględniając tylko rok, z którego pobierałeś dane oraz rok poprzedzający.")
 print("Naciśnij Enter aby zakończyć.")
