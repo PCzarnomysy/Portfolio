@@ -12,6 +12,8 @@ Dziękuję za poświęcenie czasu na przeglądanie mojego portfolio.
 
 # Linki do projektów:
 [Predykcja wyników meczów piłkarskich](https://github.com/PCzarnomysy/Portfolio/tree/main/PLprzewidywator)
+
 [Ranking ELO polskich klubów piłkarskich](https://github.com/PCzarnomysy/Portfolio/tree/main/Ranking_Elo)
+
 [Analiza wpływu średniego wieku piłkarzy w zespole piłkarskim na wyniki zespołu](https://github.com/PCzarnomysy/Portfolio/tree/main/Średnia_wieku_a_poziom_drużyny)
 
