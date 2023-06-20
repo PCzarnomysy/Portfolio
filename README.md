@@ -1,0 +1,3 @@
+# Informacje
+
+W niniejszym repozytorium 
