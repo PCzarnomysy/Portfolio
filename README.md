@@ -8,3 +8,7 @@ Projekty obejmują tworzenie oprogramowania w Pythonie oraz analizę danych przy
 Wykorzystuję również język R do analizy statystycznej i wizualizacji danych.
 
 Dziękuję za poświęcenie czasu na przeglądanie mojego portfolio.
+
+
+# Linki do projektów:
+[Ranking ELO polskich klubów piłkarskich](https://github.com/PCzarnomysy/Portfolio/tree/main/Ranking_Elo)
