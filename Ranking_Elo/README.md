@@ -2,7 +2,7 @@
 
 Pliki w folderze obejmują: 
 
-plik PLmecze.xlsx - dane wejściowe*/
+plik PLmecze.xlsx - dane wejściowe*/n
 Ranking_Elo.py - kod przeliczający wyniki meczów z lat 1998-2023/
 PLranking - dane wyjściowe/
 
