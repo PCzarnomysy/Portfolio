@@ -7,7 +7,7 @@ wykonywane były w ramach wolnego czasu i dokształcania się w kierunku Data An
 Projekty obejmują tworzenie oprogramowania w Pythonie oraz analizę danych przy użyciu arkuszy kalkulacyjnych w formacie XLSX oraz za pomocą konwersji danych w języku SQL. 
 Wykorzystuję również język R do analizy statystycznej i wizualizacji danych.
 
-Dziękuję za poświęcenie czasu na przeglądanie portfolio.
+Poniżej załączam linki do kilku opracowanych projektów. Dziękuję za poświęcenie czasu na przeglądanie portfolio.
 
 # Linki do projektów:
 [Predykcja wyników meczów piłkarskich](https://pczarnomysy.github.io/Portfolio/PLprzewidywator/)
