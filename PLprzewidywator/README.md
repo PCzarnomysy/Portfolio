@@ -30,9 +30,13 @@ Drużyny w kolumnie N zostały posortowane alfabetycznie za pomocą formuły:
 
 W najnowszym Office 365 możliwe jest użycie funkcji "UNIKATOWE"
 
+![Zrzut ekranu 2023-06-21 235206](https://github.com/PCzarnomysy/Portfolio/assets/136918183/7e5a489f-7c2d-4de9-b490-574301ab6579)
+
 Dane z kolumn N-AD zostały w kolumnach AE-AM podzielone na średnią liczbę bramek zdobytych lub straconych przez poszczególne drużyny. 
 Kolumna AN jest kolumną kontrolną określaną za pomocą funkcji "JEŻELI". W przypadku, jeżeli dana drużyna rozegra mniej niż 6 meczów wartość przyjmuje liczbę 0, co powoduje brak wyliczenia siły drużyny.
-Liczba 6 meczów została wyjaśniona w zakładce #Analiza danych
+Wspominana liczba 6 meczów stanowi subiektywnie określoną liczbę meczów, po której rozegraniu dane umożliwiają określenie siły danej drużyny.
+
+![Zrzut ekranu 2023-06-21 235225](https://github.com/PCzarnomysy/Portfolio/assets/136918183/1cb629cf-307a-492f-9173-8546be924a68)
 
 # Określenie siły drużyn
 
@@ -41,11 +45,15 @@ W kolumnach AO-AQ, w wierszach 2-5 na podstawie danych przekształconych na wcze
 W wierszach 9-10 wyliczono średnią przewidywaną liczbę bramek w meczach domowych i wyjazdowych. Dane służą przemnożeniu średniej siły drużyny w arkuszu "Wyliczenia". 
 W celu określenia średniej wartości zastosowano formułę:
 
-Ostatnie 6 meczów * 3/6
-Mecze u siebie lub na wyjeździe * 2/6
+Ostatnie 6 meczów * 3/6 +
+Mecze u siebie lub na wyjeździe * 2/6 +
 Mecze w całym sezonie * 1/6
 
+![Zrzut ekranu 2023-06-22 000225](https://github.com/PCzarnomysy/Portfolio/assets/136918183/89cf5b81-fe45-4f33-9bf9-53f2b3a8a84e)
+
 Podobną formułę zastosowano do określenia siły drużyny w podziale na mecze domowe i wyjazdowe. Dane znajdują się w kolumnach AR-AV.
+
+![Zrzut ekranu 2023-06-22 000252](https://github.com/PCzarnomysy/Portfolio/assets/136918183/34a697ed-a2be-4253-b918-d1f87554ddf5)
 
 # Wyliczenia
 
@@ -60,7 +68,7 @@ Poziomo w wierszu 2 określono liczbę bramek gości. Prawdopodobieństwo zosta�
 
 =((ROZKŁAD.POISSON($G4;$B$2;FAŁSZ)*ROZKŁAD.POISSON(I$2;$C$2;FAŁSZ)))*100
 
-Przykładowe rezultaty zostały pokazane na poniższym obrazku.
+Przykładowe rezultaty analizy oraz rozkład szans wystąpienia wyniku zostały pokazane na poniższym obrazku.
 
 ![Zrzut ekranu 2023-06-17 225006](https://github.com/PCzarnomysy/Portfolio/assets/136918183/0fbeaf06-2806-40fa-b15f-b7f997679d7a)
 
@@ -75,4 +83,4 @@ Statystyki zrównały się w ostatnich 6 kolejkach, gdzie zarówno gospodarze, j
 W przypadku bardzo niskiego wskaźnika przewidywanych bramek w meczu (poniżej 0,5 gola) znacząco wzrasta prawdopodobieństwo braku gola w meczu, zawyżając potencjalną szansę na remis w meczu. Problem ten występuje wyłącznie w przypadku piłki nożnej, która charakteryzuje się niską liczbą zdobytych punktów - bramek podczas rozgrywek.
 
 # Informacje końcowe
-Wskazane wyliczenia należy traktować wyłącznie jako wskazówkę, ciekawostkę statystyczną. Sport jest piękny dlatego, że istnieje jeszcze czynnik ludzki, którego nie da się przewidzieć.
+Wskazane wyliczenia należy traktować wyłącznie jako wskazówkę, ciekawostkę statystyczną. Sport jest tak piękny dlatego, że istnieje jeszcze czynnik ludzki, którego nie da się przewidzieć.
