@@ -84,3 +84,6 @@ W przypadku bardzo niskiego wskaźnika przewidywanych bramek w meczu (poniżej 0
 
 # Informacje końcowe
 Wskazane wyliczenia należy traktować wyłącznie jako wskazówkę, ciekawostkę statystyczną. Sport jest tak piękny dlatego, że istnieje jeszcze czynnik ludzki, którego nie da się przewidzieć.
+
+Link do pobrania pliku znajduje się poniżej
+[LINK](https://github.com/PCzarnomysy/Portfolio/blob/main/PLprzewidywator/PLprzewidywator.xlsx)
