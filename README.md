@@ -9,7 +9,6 @@ Wykorzystuję również język R do analizy statystycznej i wizualizacji danych.
 
 Dziękuję za poświęcenie czasu na przeglądanie portfolio.
 
-
 # Linki do projektów:
 [Predykcja wyników meczów piłkarskich](https://github.com/PCzarnomysy/Portfolio/tree/main/PLprzewidywator)
 
@@ -17,3 +16,8 @@ Dziękuję za poświęcenie czasu na przeglądanie portfolio.
 
 [Analiza wpływu średniego wieku piłkarzy w zespole piłkarskim na wyniki zespołu](https://github.com/PCzarnomysy/Portfolio/tree/main/Średnia_wieku_a_poziom_drużyny)
 
+# Dane do pobrania
+
+Wszelkie pliki zamieszczone w projektach możliwe są do pobrania pod poniższym linkiem:
+
+[Dane do pobrania](https://github.com/PCzarnomysy/Portfolio/archive/refs/heads/main.zip)
