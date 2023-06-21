@@ -73,3 +73,6 @@ W większości lig wyższą średnią liczbę bramek drużyny strzelały w mecza
 Statystyki zrównały się w ostatnich 6 kolejkach, gdzie zarówno gospodarze, jak i goście średnio strzelali 1,33 bramki na mecz.
 
 W przypadku bardzo niskiego wskaźnika przewidywanych bramek w meczu (poniżej 0,5 gola) znacząco wzrasta prawdopodobieństwo braku gola w meczu, zawyżając potencjalną szansę na remis w meczu. Problem ten występuje wyłącznie w przypadku piłki nożnej, która charakteryzuje się niską liczbą zdobytych punktów - bramek podczas rozgrywek.
+
+# Informacje końcowe
+Wskazane wyliczenia należy traktować wyłącznie jako wskazówkę, ciekawostkę statystyczną. Sport jest piękny dlatego, że istnieje jeszcze czynnik ludzki, którego nie da się przewidzieć.
