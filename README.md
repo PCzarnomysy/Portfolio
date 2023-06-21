@@ -10,11 +10,11 @@ Wykorzystuję również język R do analizy statystycznej i wizualizacji danych.
 Dziękuję za poświęcenie czasu na przeglądanie portfolio.
 
 # Linki do projektów:
-[Predykcja wyników meczów piłkarskich](https://github.com/PCzarnomysy/Portfolio/tree/main/PLprzewidywator)
+[Predykcja wyników meczów piłkarskich](https://pczarnomysy.github.io/Portfolio/PLprzewidywator/)
 
-[Ranking ELO polskich klubów piłkarskich](https://github.com/PCzarnomysy/Portfolio/tree/main/Ranking_Elo)
+[Ranking ELO polskich klubów piłkarskich](https://pczarnomysy.github.io/Portfolio/Ranking_Elo/)
 
-[Analiza wpływu średniego wieku piłkarzy w zespole piłkarskim na wyniki zespołu](https://github.com/PCzarnomysy/Portfolio/tree/main/Średnia_wieku_a_poziom_drużyny)
+[Analiza wpływu średniego wieku piłkarzy w zespole piłkarskim na wyniki zespołu](https://pczarnomysy.github.io/Portfolio/Średnia_wieku_a_poziom_drużyny/)
 
 # Dane do pobrania
 
