@@ -16,6 +16,8 @@ Poniżej załączam linki do kilku opracowanych projektów. Dziękuję za poświ
 
 [Analiza wpływu średniego wieku piłkarzy w zespole piłkarskim na wyniki zespołu](https://pczarnomysy.github.io/Portfolio/Średnia_wieku_a_poziom_drużyny/)
 
+[Analiza rozwoju społeczno-gospodarczego Głogowa w latach 2010-2015](https://pczarnomysy.github.io/Portfolio/analiza_rozwoju_glogow/)
+
 # Dane do pobrania
 
 Wszelkie pliki zamieszczone w projektach możliwe są do pobrania pod poniższym linkiem:
