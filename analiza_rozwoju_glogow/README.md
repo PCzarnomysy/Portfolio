@@ -5,9 +5,9 @@ i rozwój miast”. Projekt polegał na analizie porównawczej miasta Głogów w
 
 # Cel i zakres pracy
 
-	Celem pracy jest analiza poziomu rozwoju społeczno-gospodarczego Głogowa, położonego w województwie dolnośląskim w latach 2010 i 2015. 
+Celem pracy jest analiza poziomu rozwoju społeczno-gospodarczego Głogowa, położonego w województwie dolnośląskim w latach 2010 i 2015. 
 Miasto Głogów zajmuje powierzchnię 35,11 km², liczba ludności w 2015 roku wynosiła 68 666 mieszkańców, a gęstość zaludnienia miasta wynosiła 1 955,7 os/km². Samo miasto jest siedzibą powiatu głogowskiego oraz gmin miejskiej i wiejskiej Głogów.
-	Województwo dolnośląskie znajduje się w południowo-zachodniej części Polski. Jego położenie obejmuje duży fragment historycznego Śląska (Dolny Śląsk), a także wschodnie Łużyce Górne. Obszar, wynosi łącznie 19 947 km² , co daje mu 7 pozycję w Polsce pod względem zajmowanej powierzchni. Stanowi to 6,4% obszaru całego kraju. Województwo liczy 26 powiatów, 91 miast w tym 4 na prawach powiatu. Liczba gmin według danych 
+Województwo dolnośląskie znajduje się w południowo-zachodniej części Polski. Jego położenie obejmuje duży fragment historycznego Śląska (Dolny Śląsk), a także wschodnie Łużyce Górne. Obszar, wynosi łącznie 19 947 km² , co daje mu 7 pozycję w Polsce pod względem zajmowanej powierzchni. Stanowi to 6,4% obszaru całego kraju. Województwo liczy 26 powiatów, 91 miast w tym 4 na prawach powiatu. Liczba gmin według danych 
 z 2015 roku wynosiła 169 (w tym 26 gmin miejskich, 78 wiejskich oraz 55 gmin miejsko-wiejskich). Analizowany Głogów leży w północnej części województwa.
 
 # Analiza poziomu społeczno – gospodarczego miasta Głogów na tle poziomu rozwoju gmin województwa
