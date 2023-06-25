@@ -183,7 +183,7 @@ Oddziaływanie empiryczne miasta Głogów w dużym stopniu pokrywa się z modele
 	
 ![obraz](https://github.com/PCzarnomysy/Portfolio/assets/136918183/c893dcb6-6d36-4f89-819c-a4dc0ca76635)
 
-# 7. Wnioski, podsumowanie
+# Wnioski, podsumowanie
 
 Z przeprowadzonej analizy poziomu rozwoju gospodarczego wynika, że Głogów jest miastem o wysokim poziomie rozwoju społeczno-gospodarczego, w porównaniu do reszty gmin województwa dolnośląskiego. Wpływ na to ma jego lokalizacja w Legnicko-Głogowskim Okręgu Miedziowym, który jest dużym ośrodkiem przemysłu w Polsce, a jej elementem na terenie miasta jest Huta Miedzi Głogów.
 Problemem Głogowa jest jednak silna konkurencja ze strony Polkowic, Lubina 
