@@ -1,7 +1,18 @@
 dane <- readxl::read_excel("EN_średnia_wieku.xlsx")
 
 library(ggplot2)
+library(scales)
 
+ggplot(data=dane)+
+  geom_bar(mapping=aes(x=śr_wiek_11), fill = "red") +
+  labs(title="Rozkład drużyn względem ich średniego wieku", x="Średni wiek", y="Suma drużyn")
+
+ggplot(data=dane)+
+  geom_density(mapping=aes(x=śr_wiek_11), colour = "red", size=2) +
+  labs(title="Rozkład drużyn względem ich średniego wieku", x="Udział drużyn", y="Suma drużyn") +
+  scale_y_continuous(labels = percent)
+
+  
 ggplot(data=dane)+
   geom_smooth(mapping=aes(x=śr_wiek_11, y=pkt), colour="red") + 
   labs(title="Średni wiek a punkty drużyny", x="Średni wiek", y="Liczba punktów")
