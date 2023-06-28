@@ -11,7 +11,11 @@ Tezą często słyszalną w mediach sportowych jest określenie "optymalnego" wi
 Wiek jest różny w zależności od dyscypliny, na przykład w przypadku skoczków narciarskich, za skoczka doświadczonego, będącego już za najwyższym poziomem swojej kariery często uważa się zawodnika kończącego 30 lat.
 W przypadku piłkarzy, w zależności od jego pozycji na boisku, swój najwyższy poziom miałby osiągnąć w wieku mięzdzy 27 a 32 lata.
 
+Poniższe dwa wykresy przedstawiają średnią wiek podstawowej jedenastki składów drużyn Premier League w latach 1992-2022. Wskazują one, że najczęściej występującym przedziałem wiekowym drużyn był przedział od 26 do 28 lat.
 
+![wiek_ekip](https://github.com/PCzarnomysy/Portfolio/assets/136918183/c6a1e3e6-4e2c-4599-8d61-89e61194b92d)
+
+![udział](https://github.com/PCzarnomysy/Portfolio/assets/136918183/00cda251-41e2-40b0-9cf8-aa684bc79c3a)
 
 
 ![punkty](https://github.com/PCzarnomysy/Portfolio/assets/136918183/042eedeb-6703-4e11-8aeb-8c6ed3e718b3)
