@@ -4,8 +4,8 @@ Witam na portfolio zawierającym pliki z zakresu analizy danych.
 Przedstawione w nim projekty, dotyczące przede wszystkim analiz w zakresie wydarzeń sportowych, 
 wykonywane były w ramach wolnego czasu i dokształcania się w kierunku Data Analytics i Data Science.
 
-Projekty obejmują tworzenie oprogramowania w Pythonie oraz analizę danych przy użyciu arkuszy kalkulacyjnych w formacie XLSX oraz za pomocą konwersji danych w języku SQL. 
-Wykorzystuję również język R do analizy statystycznej i wizualizacji danych.
+Projekty obejmują tworzenie skryptów w języku Python oraz analizę danych przy użyciu arkuszy kalkulacyjnych w formacie XLSX oraz za pomocą baz danych w języku SQL. 
+Do analizy statystycznej i wizualizacji danych wykorzystywany jest również język R.
 
 Poniżej załączam linki do kilku opracowanych projektów. Dziękuję za poświęcenie czasu na przeglądanie portfolio.
 
