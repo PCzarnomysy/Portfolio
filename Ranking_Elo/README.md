@@ -10,6 +10,13 @@ Ranking_Elo.py - kod przeliczający wyniki meczów z lat 1998-2023
 
 PLranking.xlsx - dane wyjściowe
 
+W przypadku chęci porównania większej liczby lig, krajów oraz wyników drużyn w rozegranych meczach międzypaństwowych, sugerowane jest zbudowanie bazy relacyjnej w SQL.
+
+Przykład takiej bazy, stanowi załącznik do pobrania w linku poniżej. Stanowi on jedynie szablon, z uzupełnionymi kilkoma spotkaniami drużyn w lidze angielskiej, hiszpańskiej oraz pomiędzy drużynami. Każda z lig oraz mecze międzypaństwowe stanowią odrębną tabelę. Czwartą jest tabela z nazwami drużyn oraz ich ID, stanowiącymi klucz podstawowy.
+ID z tabeli "druzyny" jest połączone z kolumnami "home_id" oraz "away_id" z tabelami z wynikami meczów poszczególnych lig.
+
+
+
 Plik Ranking_Elo.py oblicza ranking drużyny do wskazanej w pierwszym komunikacie daty, lub też całość danych zawartych w pliku PLmecze.xlsx. Aby otrzymać poprawne wyniki należy w pliku PLranking.xlsx filtrować dane do dwóch ostatnich lat względem przeliczanych danych, na przykład: wprowadzając w pliku Ranking_Elo.py datę generowanych danych do 30 lipca 2006 r. należy zaznaczyć objąć filtrem kluby z datą 2005 i 2006 r. 
 
 Przykładowe dane obejmujące cały zakres meczów od 1998 do 2023 roku.
