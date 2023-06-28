@@ -7,16 +7,21 @@ Na wstępie pobrano odrębne dane dotyczące średniej wieku oraz wyników druż
 
 Następnie dane wczytano do programu R, w celu wizualizacji wykorzystano pakiet ggplot. Z uwagi na typ danych większość wykresów wykonano za pomocą typu wykresu geom_smooth, aby móc wskazać linie trendu pomiędzy poszczególnym wskaźnikiem a średnią wieku.
 
+#Rozkład średniej wieku drużyn w latach 1992-2022
+
 Tezą często słyszalną w mediach sportowych jest określenie "optymalnego" wieku sportowca, w którym osiąga on swój szczyt umiejętności i formy. 
 Wiek jest różny w zależności od dyscypliny, na przykład w przypadku skoczków narciarskich, za skoczka doświadczonego, będącego już za najwyższym poziomem swojej kariery często uważa się zawodnika kończącego 30 lat.
 W przypadku piłkarzy, w zależności od jego pozycji na boisku, swój najwyższy poziom miałby osiągnąć w wieku mięzdzy 27 a 32 lata.
 
-Poniższe dwa wykresy przedstawiają średnią wiek podstawowej jedenastki składów drużyn Premier League w latach 1992-2022. Wskazują one, że najczęściej występującym przedziałem wiekowym drużyn był przedział od 26 do 28 lat.
+Poniższe dwa wykresy przedstawiają średnią wiek podstawowej jedenastki składów drużyn Premier League w latach 1992-2022. Wskazują one, że najczęściej występującym przedziałem wiekowym drużyn był przedział od 26 do około 27 i pół roku. Po tej granicy następuje coraz szybszy spadek liczby drużyn które posiadały starszą średnią wieku.
 
 ![wiek_ekip](https://github.com/PCzarnomysy/Portfolio/assets/136918183/c6a1e3e6-4e2c-4599-8d61-89e61194b92d)
 
 ![udział](https://github.com/PCzarnomysy/Portfolio/assets/136918183/00cda251-41e2-40b0-9cf8-aa684bc79c3a)
 
+#Średnia wieku a pozycja w lidze
+
+Paradoksalnie według wskazanych danych najlepsze wyniki pod względem zajętej pozycji na koniec sezonu w lidze oraz liczby zdobytych punktów osiągały drużyny najmłodsze. Częściowo jest to zasługą młodej drużyny Arsenalu, która osiągała bardzo dobre rezultaty na przełomie XX i XXI wieku, jednakże wśród drużyn któe kończyły sezon wysoko w tabeli znajduje się również Leeds z sezonu 1999/2000.
 
 ![punkty](https://github.com/PCzarnomysy/Portfolio/assets/136918183/042eedeb-6703-4e11-8aeb-8c6ed3e718b3)
 
