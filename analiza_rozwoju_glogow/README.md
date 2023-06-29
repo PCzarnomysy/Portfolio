@@ -3,6 +3,10 @@
 Niniejszy opis stanowił część projektu studenckiego w ramach przedmiotu „Ekonomika 
 i rozwój miast”. Projekt polegał na analizie porównawczej miasta Głogów w kontekście innych gmin województwa dolnośląskiego. Wszelkie operacje i obliczenia na danych zostały przygotowane w programie MS Excel. Ryciny kartograficzne zostały przygotowane za pomocą oprogramowania GIS. 
 
+Link do całego folderu znajduje się poniżej:
+
+[LINK](https://github.com/PCzarnomysy/Portfolio/tree/main/analiza_rozwoju_glogow/)
+
 # Cel i zakres pracy
 
 Celem pracy jest analiza poziomu rozwoju społeczno-gospodarczego Głogowa, położonego w województwie dolnośląskim w latach 2010 i 2015. 
