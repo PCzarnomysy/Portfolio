@@ -45,3 +45,7 @@ W przypadku szerokiego składu linie trendu jedynie wypłaszcza się dla drużyn
 Konkludując krótką analizę, zaskakującym wnioskiem jest to, że potencjalne większe doświadczenie drużyn o starszej średniej wieku absolutnie nie wpływa na lepsze wyniki drużyn.
 To drużyny młodsze, być może grające z wyższą intensywnością, posiadają lepsze wyniki, zarówno w zdobytych punktach, jak również w bramkach strzelonych i straconych.
 Należy pamiętać, że analiza była zawężona jedynie do angielskiej Premier League, być może wnioski wyciągnięte z ligi hiszpańskiej, bądź nawet polskiej byłyby zupełnie inne.
+
+Link do całego folderu znajduje się poniżej:
+
+[LINK](https://github.com/PCzarnomysy/Portfolio/tree/main/Średnia_wieku_a_poziom_druzyny/)
