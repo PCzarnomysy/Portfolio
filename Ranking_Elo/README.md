@@ -23,4 +23,6 @@ Przykładowe dane obejmujące cały zakres meczów od 1998 do 2023 roku.
 
 ![Zrzut ekranu 2023-06-21 230625](https://github.com/PCzarnomysy/Portfolio/assets/136918183/d0579679-190c-4af9-b4cc-dc1a213b34ea)
 
+Link do całego folderu znajduje się poniżej
 
+[Link](https://github.com/PCzarnomysy/Portfolio/tree/main/Ranking_Elo)
