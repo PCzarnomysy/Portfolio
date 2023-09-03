@@ -14,7 +14,7 @@ Poniżej załączam linki do kilku opracowanych projektów. Dziękuję za poświ
 
 [Ranking ELO polskich klubów piłkarskich (Python, MS Excel, SQL)](https://pczarnomysy.github.io/Portfolio/Ranking_Elo/)
 
-[Analiza dochodów i wydatków gmin woj. mazowieckiego w przeliczeniu na 1 mieszkańca (Tableau, MS Excel)](https://public.tableau.com/app/profile/przemys.aw.czarnomysy/viz/Analiza_mieszkancy/Dashboard1?publish=yes)
+[Analiza dochodów i wydatków gmin woj. mazowieckiego w przeliczeniu na 1 mieszkańca](https://public.tableau.com/app/profile/przemys.aw.czarnomysy/viz/Analiza_mieszkancy/Dashboard1?publish=yes) (Tableau, MS Excel)
 
 [Analiza wpływu średniego wieku piłkarzy w zespole piłkarskim na wyniki zespołu (R, MS Excel)](https://pczarnomysy.github.io/Portfolio/Średnia_wieku_a_poziom_drużyny/)
 
