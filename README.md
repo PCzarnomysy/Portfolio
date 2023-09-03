@@ -10,13 +10,17 @@ Do analizy statystycznej i wizualizacji danych wykorzystywany jest również ję
 Poniżej załączam linki do kilku opracowanych projektów. Dziękuję za poświęcenie czasu na przeglądanie portfolio.
 
 # Linki do projektów:
-[Predykcja wyników meczów piłkarskich](https://pczarnomysy.github.io/Portfolio/PLprzewidywator/)
+[Predykcja wyników meczów piłkarskich (MS Excel)](https://pczarnomysy.github.io/Portfolio/PLprzewidywator/)
 
-[Ranking ELO polskich klubów piłkarskich](https://pczarnomysy.github.io/Portfolio/Ranking_Elo/)
+[Ranking ELO polskich klubów piłkarskich (Python, MS Excel, SQL)](https://pczarnomysy.github.io/Portfolio/Ranking_Elo/)
 
-[Analiza wpływu średniego wieku piłkarzy w zespole piłkarskim na wyniki zespołu](https://pczarnomysy.github.io/Portfolio/Średnia_wieku_a_poziom_drużyny/)
+[Analiza dochodów i wydatków gmin woj. mazowieckiego w przeliczeniu na 1 mieszkańca (Tableau, MS Excel)](https://public.tableau.com/app/profile/przemys.aw.czarnomysy/viz/Analiza_mieszkancy/Dashboard1?publish=yes)
 
-[Analiza rozwoju społeczno-gospodarczego Głogowa w latach 2010-2015](https://pczarnomysy.github.io/Portfolio/analiza_rozwoju_glogow/)
+[Analiza wpływu średniego wieku piłkarzy w zespole piłkarskim na wyniki zespołu (R, MS Excel)](https://pczarnomysy.github.io/Portfolio/Średnia_wieku_a_poziom_drużyny/)
+
+[Analiza rozwoju społeczno-gospodarczego Głogowa w latach 2010-2015 (MS Excel)](https://pczarnomysy.github.io/Portfolio/analiza_rozwoju_glogow/)
+
+
 
 # Dane do pobrania
 
